@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+#VALENTINE MUNIKAH
 
-You can use the [editor on GitHub](https://github.com/valentineMunikah/valentineMunikah.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##PERSONAL INFORMATION
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NAME:             VALENTINE MUNIKAH
+DATE OF BIRTH:    3RD JULY 1997
+GENDER:           FEMALE
+COUNTY OF BIRTH:  KAKAMEGA
+NATIONALITY:      KENYAN
 
 ### Markdown
 
